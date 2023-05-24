@@ -3,7 +3,7 @@ Despite of I coded in VBA (Visual Basic for Applications) and created simple SQL
 
 🌱 Currently I’m learning how to use GitHub. The other thing I'm learning is Python. Recently I also started learning Ruby.
 
-⚡ Fun fact 1: I coded in VBA, but knew nothing about Git. Now my_github_knowledge != 0
+⚡ Fun fact 0: I coded in VBA, but knew nothing about Git. Now my_github_knowledge != 0
 
 <!--
 **Mort89/Mort89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
